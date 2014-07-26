@@ -990,7 +990,7 @@ USER_FINAL_SCORE null 205";
 
 function parseGameLog(gameLog) {
     lines = gameLog.split("\n"); 
-    var commandsStack = new Array(); 
+    var commandsStack = []; 
     var line; 
     for(var i = 0; i < lines.length; i++) { 
         line = lines[i]; 
@@ -1009,10 +1009,11 @@ function getGameLog() {
 function main() {
     var commands = parseGameLog(gameLog);
     for(var c = 0; c < commands.length; c++) {
-        var command = commands.pop().split(' ');
+        var command = commands.shift().split(' ');
         switch(command[0]) {
             case "TOURNAMENT_START":
                 tournamentStartHandler();
+
                 break;
 
             case "TOURNAMENT_END":
