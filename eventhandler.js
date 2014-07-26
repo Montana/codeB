@@ -35,6 +35,7 @@ function roundStartHandler(letter) {
 	g_APP.currLetter = letter;
 
 	$("#roundStatus").text("Round " + g_APP.roundNum);
+    $("#letterOnAuction").text("Tile on Auction " + g_APP.currLetter);
 
 	console.log("Round start handler called. Round \
 		" + g_APP.roundNum + " is starting.");
