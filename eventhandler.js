@@ -22,7 +22,7 @@ function tournamentStartHandler() {
 
 function gameStartHandler(gameNum) {
 	g_APP.gameNum = gameNum;
-	$("#gameStatus").text("Game Number " + g_APP.gameNum);
+	$("#gameStatus").text("Game Number " + (parseInt(g_APP.gameNum) +1));
 	g_APP.roundNum = -1;
 
 	console.log("Game start handler called. Game \
@@ -34,7 +34,7 @@ function roundStartHandler(letter) {
 	g_APP.currLetter = letter;
 
 	$("#roundStatus").text("Round " + (g_APP.roundNum + 1));
-    $("#letterOnAuction").text("Tile on Auction " + g_APP.currLetter);
+    $("#curr_letter").text("Auctioning Letter " + g_APP.currLetter);
 
 	console.log("Round start handler called. Round \
 		" + g_APP.roundNum + " is starting.");
@@ -42,11 +42,19 @@ function roundStartHandler(letter) {
 
 function bidHandler(player, bidAmt) {
 	console.log("Bid handler called.");
+
+	htmlText = $("#currAuction").html();
+
+	$("#currAuction").text(htmlText + "\n");
+
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
 			p.bid = bidAmt;
+			$("#player_" + (p.number) + "_bid").text(player + ": " + bidAmt);
 		}
 	});
+
+	updateMaxBidder();
 }
 
 function hiddenLettersHandler(player, letterString) {
@@ -55,8 +63,12 @@ function hiddenLettersHandler(player, letterString) {
 						points: 100, bid: 0, number: g_APP.players.length + 1,
 						totalScore: 100});
 		$("#player_" + (g_APP.players.length) + "_name").text(player);
+		$("#player_" + (g_APP.players.length) + "_bid").text(player + ": 0");
+
 		refreshLetters();
 		refreshPoints();
+
+
 	}
 	else {
 		g_APP.players.forEach(function (p) {
@@ -129,7 +141,28 @@ function refreshLetters () {
 
 function refreshPoints () {
 	g_APP.players.forEach(function (p) {
-		$("#player_" + (p.number) + "_points").text("Current Game: " + p.points +
-													"\n\nTotal: " + p.totalScore);
+		$("#player_" + (p.number) + "_gamepoints.points").text("Points this game: " + p.points);
+		$("#player_" + (p.number) + "_totalpoints.points").text("Total points: " + p.totalScore);
 	});	
+}
+
+function updateMaxBidder() {
+	var maxBid = -1;
+	var maxBidPlayer;
+	var tiedFlag = false;
+
+	g_APP.players.forEach(function (p) {
+
+		if (p.bid > maxBid) {
+			maxBidPlayer = p;
+			maxBid = p.bid;
+		}	
+		else if (p.bid === maxBid) {
+			tiedFlag = true;
+			p.bidStatus = "tied";
+			maxBidPlayer.bidStatus = "tied;"
+		}
+		});
+
+	if (!tiedFlag) maxBidPlayer.bidStatus = "highest";
 }
