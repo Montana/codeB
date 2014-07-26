@@ -994,7 +994,7 @@ function parseGameLog(gameLog) {
     var commandsStack = []; 
     var line; 
     for(var i = 0; i < lines.length; i++) { 
-        line = lines[i]; 
+        line = lines[i];
         commandsStack.push(line.trim()); 
     } 
     return commandsStack;
@@ -1006,13 +1006,12 @@ function getGameLog() {
     });
 }
 
-function main() {
-    var commands = parseGameLog(gameLog);
-    console.log("No. of commands: " + commands.length);
-    var length = commands.length;
-    for(var c = 0; c < length; c++) {
-        var command = commands.shift().split(' ');
-        switch(command[0]) {
+function caseOnCommands(commands) {
+
+	if (commands.length == 0) return;
+
+	var command = commands.shift().split(' ');
+	switch(command[0]) {
             case "TOURNAMENT_START":
                 tournamentStartHandler();
 
@@ -1053,6 +1052,7 @@ function main() {
             case "GAME_END":
                 gameEndHandler();
                 break;
+<<<<<<< HEAD
         }
     }
     var highestScore = 0;
@@ -1066,6 +1066,20 @@ function main() {
     });
     console.log("Player with highest score: " + playerWithHighestScore);
     $("#player_" + (playerWithHighestScore)).addClass('animated tada');
+=======
+	}
+
+	setTimeout(function(){caseOnCommands(commands);}, 100);
+>>>>>>> 129b8dc6f02852b1e212a34c78f4fc8b5a13a28b
 }
+
+function main() {
+    var commands = parseGameLog(gameLog);
+    console.log("No. of commands: " + commands.length);
+    var length = commands.length;
+
+        caseOnCommands(commands);
+}
+
 
 $(document).ready(main);

@@ -6,7 +6,7 @@ var g_APP = {};
 //      points  : curr number of points
 //      bid     : bid on curr round
 //      number  : player number
-//		finalScore : duh
+//		totalScore : duh
 g_APP.players = [];
 
 g_APP.roundNum = 0;
@@ -22,7 +22,6 @@ function tournamentStartHandler() {
 
 function gameStartHandler(gameNum) {
 	g_APP.gameNum = gameNum;
-
 	$("#gameStatus").text("Game Number " + g_APP.gameNum);
 	g_APP.roundNum = -1;
 
@@ -34,7 +33,7 @@ function roundStartHandler(letter) {
 	g_APP.roundNum++;
 	g_APP.currLetter = letter;
 
-	$("#roundStatus").text("Round " + g_APP.roundNum);
+	$("#roundStatus").text("Round " + (g_APP.roundNum + 1));
     $("#letterOnAuction").text("Tile on Auction " + g_APP.currLetter);
 
 	console.log("Round start handler called. Round \
@@ -53,9 +52,11 @@ function bidHandler(player, bidAmt) {
 function hiddenLettersHandler(player, letterString) {
 	if (g_APP.players.length < 5) {
 		g_APP.players.push({letters: letterString.split(""), name: player,
-						points: 100, bid: 0, number: g_APP.players.length + 1});
+						points: 100, bid: 0, number: g_APP.players.length + 1,
+						totalScore: 100});
 		$("#player_" + (g_APP.players.length) + "_name").text(player);
 		refreshLetters();
+		refreshPoints();
 	}
 	else {
 		g_APP.players.forEach(function (p) {
@@ -73,7 +74,9 @@ function wordSubmissionHandler(player, word, points) {
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
 			p.word = word;
-			p.points += points;
+			p.points = parseInt(p.points) + parseInt(points);
+			p.totalScore = parseInt(p.totalScore) + parseInt(points);
+			refreshPoints();
 		}
 	});
 
@@ -85,19 +88,22 @@ function userFinalScoreHandler(player, score) {
 
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
-			p.finalScore = score;
+			p.totalScore = score;
+			refreshPoints();
 		}
 	});
 }
 
 function roundEndHandler(player, winningVal, amtPaid) {
-	console.log("Round end handler called.");
+	console.log("Round end handler called. Winner is " + player + " who paid " + amtPaid);
 
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
-			p.points -= amtPaid;
+			p.points = Math.max(0, parseInt(p.points) - amtPaid);
+			p.totalScore = Math.max(0, parseInt(p.totalScore) - amtPaid);
 			p.letters.push(g_APP.currLetter);
 			refreshLetters();
+			refreshPoints();
 		}
 	});
 }
@@ -106,6 +112,8 @@ function gameEndHandler() {
 	console.log("Game end handler called.");
 	g_APP.players.forEach(function (p) {
 		p.letters = [];
+		p.points = 100;
+		refreshPoints();
 	});
 }
 
@@ -128,4 +136,11 @@ function refreshLetters () {
 	g_APP.players.forEach(function (p) {
 		$("#player_" + (p.number) + "_letters").text(p.letters);
 	});
+}
+
+function refreshPoints () {
+	g_APP.players.forEach(function (p) {
+		$("#player_" + (p.number) + "_points").text("Current Game: " + p.points +
+													"\n\nTotal: " + p.totalScore);
+	});	
 }
