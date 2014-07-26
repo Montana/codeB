@@ -989,12 +989,12 @@ USER_FINAL_SCORE ZenBot4 291 \n \
 USER_FINAL_SCORE null 205";
 
 function parseGameLog(gameLog) {
-    lines = gameLog.split("\n"); 
+    lines = gameLog.split("\n");
+    console.log("No. of lines in the log file: " + lines.length); 
     var commandsStack = []; 
     var line; 
     for(var i = 0; i < lines.length; i++) { 
         line = lines[i]; 
-        console.log(line); 
         commandsStack.push(line.trim()); 
     } 
     return commandsStack;
@@ -1009,7 +1009,8 @@ function getGameLog() {
 function main() {
     var commands = parseGameLog(gameLog);
     console.log("No. of commands: " + commands.length);
-    for(var c = 0; c < commands.length; c++) {
+    var length = commands.length;
+    for(var c = 0; c < length; c++) {
         var command = commands.shift().split(' ');
         switch(command[0]) {
             case "TOURNAMENT_START":
