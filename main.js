@@ -1052,25 +1052,10 @@ function caseOnCommands(commands) {
             case "GAME_END":
                 gameEndHandler();
                 break;
-<<<<<<< HEAD
-        }
-    }
-    var highestScore = 0;
-    var playerWithHighestScore = -1;
-    g_APP.players.forEach(function (p) {
-        if(p.totalScore >= highestScore) {
-            console.log("Player score: " + p.totalScore);
-            highestScore = p.totalScore;
-            playerWithHighestScore = p.number;
-        }
-    });
-    console.log("Player with highest score: " + playerWithHighestScore);
-    $("#player_" + (playerWithHighestScore)).addClass('animated tada');
-=======
-	}
 
+        }
+    
 	setTimeout(function(){caseOnCommands(commands);}, 100);
->>>>>>> 129b8dc6f02852b1e212a34c78f4fc8b5a13a28b
 }
 
 function main() {

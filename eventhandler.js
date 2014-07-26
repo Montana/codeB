@@ -119,18 +119,7 @@ function gameEndHandler() {
 
 function tournamentEndHandler() {
 	console.log("Tournament end handler called.");
-    var highestScore = 0;
-    var playerWithHighestScore = -1;
-    g_APP.players.forEach(function (p) {
-        if(p.totalScore >= highestScore) {
-            console.log("Player score: " + p.totalScore);
-            highestScore = p.totalScore;
-            playerWithHighestScore = p.number;
-        }
-    });
-    console.log("Player with highest score: " + playerWithHighestScore);
-    $("#player_" + (playerWithHighestScore)).addClass('animated tada');
-}
+    }
 
 function refreshLetters () {
 	g_APP.players.forEach(function (p) {
