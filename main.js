@@ -1008,6 +1008,7 @@ function getGameLog() {
 
 function main() {
     var commands = parseGameLog(gameLog);
+    console.log("No. of commands: " + commands.length);
     for(var c = 0; c < commands.length; c++) {
         var command = commands.shift().split(' ');
         switch(command[0]) {
