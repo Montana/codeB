@@ -15,14 +15,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="js/ie-emulation-modes-warning.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <link href="css/jumbotron.css" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -32,31 +26,35 @@
   </head>
 
   <body>
-
-
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Code B Intern Challenge</a>
+        </div>
+      </div>
+    </div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Auctioneer</h1>
+      <div class="landscape"><img src="images/auction_banner.jpg" width="100%" height="75%"></div>
         <div id="gameStatus">Game 0</div>
-	<div id="roundStatus">Round 0</div>
+	      <div id="roundStatus">Round 0</div>
       </div>
     </div>
-
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 well">
           <h2>Player 1</h2>
             <div class="player1_letters">ABCDEFG</div>
 <div class="portrait"><img src="http://www.indemnity.ie/wp-content/uploads/2010/04/iStock_000003413016Medium_business-man-with-hands-up.jpg" width=200px></div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 well">
           <h2>Player 2</h2>
-             <div class="player2_letters">ABCDEFG</div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
+             <div class="player2_letters">ABCDEF</div>
+<div class="portrait"><img src="" width=200px></div>
        </div>
-        <div class="col-md-4">
+        <div class="col-md-4 well">
           <h2>Player 3</h2>
            <div class="player3_letters">ABCDEFG</div>
 	   <div class="portrait"><img src="http://static3.businessinsider.com/image/4fbceec36bb3f7461000000b/facebook-cfo-david-ebersmann.jpg" width=200px></div>
@@ -64,12 +62,12 @@
 
           <h2>Player 4</h2>
              <div class="player4_letters">ABCDEFG</div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
+<div class="portrait"><img src="" width=200px></div>
        </div>
-        <div class="col-md-4">
+        <div class="col-md-4 well">
           <h2>Player 5</h2>
              <div class="player5_letters">ABCDEFG</div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
+<div class="portrait"><img src="" width=200px></div>
        </div>
 
       </div>
@@ -84,5 +82,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
