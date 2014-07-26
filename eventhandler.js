@@ -1,27 +1,27 @@
 function bidHandler(player, bidValue) {
-	debug("Bid handler called.");
+	console.log("Bid handler called.");
 }
 
 function roundStartHandler(letter) {
-	debug("Round start handler called.");
+	console.log("Round start handler called.");
 }
 
 function gameStartHandler(gameNum) {
-	debug("Game start handler called.");
+	console.log("Game start handler called.");
 }
 
 function tournamentStartHandler() {
-	debug("Tournament start handler called.");
+	console.log("Tournament start handler called.");
 }
 
 function roundEndHandler(player, winningVal, amtPaid) {
-	debug("Round end handler called.");
+	console.log("Round end handler called.");
 }
 
 function gameEndHandler(gameNum, args) {
-	debug("Game end handler called.");
+	console.log("Game end handler called.");
 }
 
 function tournamentEndHandler() {
-	debug("Tournament end handler called.");
+	console.log("Tournament end handler called.");
 }
