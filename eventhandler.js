@@ -80,7 +80,7 @@ function wordSubmissionHandler(player, word, points) {
 	console.log(player + " submitted word " + word + " for " + points + " points.");
 }
 
-function userFinalScoreHandler(user, score) {
+function userFinalScoreHandler(player, score) {
 	console.log("User final score handler called.");
 
 	g_APP.players.forEach(function (p) {
