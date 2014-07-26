@@ -12,11 +12,12 @@
     <title>Jumbotron Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/jumbotron.css" rel="stylesheet">
     <link href="css/index.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -25,7 +26,7 @@
     <![endif]-->
   </head>
 
-  <body>
+  <body id="body">
   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -36,47 +37,75 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-      <div class="landscape"><img src="images/auction_banner.jpg" width="100%" height="75%"></div>
-        <div id="gameStatus">Game 0</div>
-	      <div id="roundStatus">Round 0</div>
-        <div id="tileOnAuction">Tile On Auction a</div>
+      <div class="row">
+        <div class="col-lg-5">
+        <div class="landscape"><img src="images/auctioneer.gif" width="75%"></div>
+        </div>
+      
+        <div class="col-lg-6">
+          <div class= "well well-sml text-center" id="letterOnAuction" class="gameInfo">Letter On Auction a</div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class= "well well-sml" id="gameStatus" class="gameInfo">Game 0</div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class= "well well-sml" id="roundStatus" class="gameInfo">Round 0</div>
+        </div>
+
+
+        </div>
       </div>
     </div>
-    <div class="container">
+
+
+    <div class="container players">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-2" id="player_1" align="center">
+        
+        <div class="col-lg-4">
+        <div class="player-container well" id="player_1">
           <h2 id="player_1_name" class="name">Player 1</h2>
            Letters: <div id="player_1_letters" class="letters"></div>
     Points: <div id="player_1_points" class="points"></div>
-<div class="portrait"><img src="http://www.indemnity.ie/wp-content/uploads/2010/04/iStock_000003413016Medium_business-man-with-hands-up.jpg" width=200px></div>
+          </div>
         </div>
-        <div class="col-md-3" id="player_2" align="center">
+
+        <div class="col-lg-4">
+        <div class="player-container well" id="player_2">
           <h2 id="player_2_name" class="name">Player 2</h2>
            Letters: <div id="player_2_letters" class="letters"></div>
     Points: <div id="player_2_points" class="points"></div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
+        </div>
        </div>
-        <div class="col-md-2" id="player_3" align="center">
+
+       <div class="col-lg-4">
+        <div class="player-container well" id="player_3">
           <h2 id="player_3_name" class="name">Player 3</h2>
            Letters: <div id="player_3_letters" class="letters"></div>
 	  Points: <div id="player_3_points" class="points"></div>
-	   <div class="portrait"><img src="http://static3.businessinsider.com/image/4fbceec36bb3f7461000000b/facebook-cfo-david-ebersmann.jpg" width=200px></div>
         </div>
-        <div class="col-md-3" id="player_4" align="center">
+        </div>
+        </div>
+
+      <div class="row">
+
+      <div class="col-lg-4">
+        <div class="player-container well" id="player_4">
           <h2 id="player_4_name" class="name">Player 4</h2>
            Letters: <div id="player_4_letters" class="letters"></div>
 	  Points: <div id="player_4_points" class="points"></div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
        </div>
-        <div class="col-md-2" id="player_5" align="center">
+       </div>
+
+       <div class="col-lg-4">
+        <div class="player_container well" id="player_5">
           <h2 id="player_5_name" class="name">Player 5</h2>
            Letters: <div id="player_5_letters" class="letters"></div>
 	  Points: <div id="player_5_points" class="points"></div>
-<div class="portrait"><img src="http://img.phombo.com/img1/photocombo/6049/People_Mix_-_HQ_Stock_Photos_wallpapers_5012_x_4328_pictures-1.jpg_shutterstock_2740363.jpg" width=200px></div>
-  
-       </div>
-
+      </div>
+      </div>
       </div>
 
       <hr>

@@ -23,7 +23,7 @@ function tournamentStartHandler() {
 function gameStartHandler(gameNum) {
 	g_APP.gameNum = gameNum;
 
-	$("#gameStatus").text("Game " + g_APP.gameNum);
+	$("#gameStatus").text("Game Number " + g_APP.gameNum);
 	g_APP.roundNum = -1;
 
 	console.log("Game start handler called. Game \
@@ -111,6 +111,17 @@ function gameEndHandler() {
 
 function tournamentEndHandler() {
 	console.log("Tournament end handler called.");
+    var highestScore = 0;
+    var playerWithHighestScore = -1;
+    g_APP.players.forEach(function (p) {
+        if(p.totalScore >= highestScore) {
+            console.log("Player score: " + p.totalScore);
+            highestScore = p.totalScore;
+            playerWithHighestScore = p.number;
+        }
+    });
+    console.log("Player with highest score: " + playerWithHighestScore);
+    $("#player_" + (playerWithHighestScore)).addClass('animated tada');
 }
 
 function refreshLetters () {
