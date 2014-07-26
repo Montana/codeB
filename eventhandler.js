@@ -6,6 +6,7 @@ var g_APP = {};
 //      points  : curr number of points
 //      bid     : bid on curr round
 //      number  : player number
+//		finalScore : duh
 g_APP.players = [];
 
 g_APP.roundNum = 0;
@@ -83,8 +84,7 @@ function userFinalScoreHandler(user, score) {
 
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
-			p.letters = letterString.split("");
-			p.points += points;
+			p.finalScore = score;
 		}
 	});
 }
