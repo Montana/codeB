@@ -8,8 +8,8 @@ var g_APP = {};
 //      number  : player number
 g_APP.players = [];
 
-g_APP.roundNum = -1;
-g_APP.gameNum = -1;
+g_APP.roundNum = 0;
+g_APP.gameNum = 0;
 
 g_APP.currLetter;
 
@@ -20,9 +20,10 @@ function tournamentStartHandler() {
 }
 
 function gameStartHandler(gameNum) {
-	g_APP.gameNum++;
+	g_APP.gameNum = gameNum;
 
-	$("#gameStatus").text("Game " + g_APP.gameNum + 1);
+	$("#gameStatus").text("Game " + g_APP.gameNum);
+	g_APP.roundNum = -1;
 
 	console.log("Game start handler called. Game \
 		" + g_APP.gameNum + " is starting.");
@@ -32,7 +33,7 @@ function roundStartHandler(letter) {
 	g_APP.roundNum++;
 	g_APP.currLetter = letter;
 
-	$("#roundStatus").text("Round " + g_APP.roundNum + 1);
+	$("#roundStatus").text("Round " + g_APP.roundNum);
 
 	console.log("Round start handler called. Round \
 		" + g_APP.roundNum + " is starting.");
@@ -51,14 +52,14 @@ function hiddenLettersHandler(player, letterString) {
 	if (g_APP.players.length < 5) {
 		g_APP.players.push({letters: letterString.split(""), name: player,
 						points: 100, bid: 0, number: g_APP.players.length + 1});
-		$("#player_" + (g_APP.players.length) + ".name").text(player);
-		$("#player_" + (g_APP.players.length) + ".letters").text(letterString);
+		$("#player_" + (g_APP.players.length) + "_name").text(player);
+		$("#player_" + (g_APP.players.length) + "_letters").text(letterString);
 	}
 	else {
 		g_APP.players.forEach(function (p) {
 			if (p.name === player) {
 				p.letters = letterString.split("");
-				$("#player_" + (p.number) + ".letters").text(letterString);
+				$("#player_" + (p.number) + "_letters").text(letterString);
 			}
 		});
 	}
@@ -69,10 +70,12 @@ function hiddenLettersHandler(player, letterString) {
 function wordSubmissionHandler(player, word, points) {
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
-			p.letters = letterString.split("");
+			p.word = word;
 			p.points += points;
 		}
 	});
+
+	console.log(player + " submitted word " + word + " for " + points + " points.");
 }
 
 function userFinalScoreHandler(user, score) {
@@ -92,7 +95,7 @@ function roundEndHandler(player, winningVal, amtPaid) {
 	g_APP.players.forEach(function (p) {
 		if (p.name === player) {
 			p.points -= amtPaid;
-			p.letters.push(currLetter);
+			p.letters.push(g_APP.currLetter);
 		}
 	});
 }
