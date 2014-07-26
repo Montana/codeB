@@ -1055,7 +1055,7 @@ function caseOnCommands(commands) {
 
         }
     
-	setTimeout(function(){caseOnCommands(commands);}, 100);
+	setTimeout(function(){caseOnCommands(commands);}, 200);
 }
 
 function main() {

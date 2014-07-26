@@ -135,7 +135,7 @@ function tournamentEndHandler() {
 
 function refreshLetters () {
 	g_APP.players.forEach(function (p) {
-		$("#player_" + (p.number) + "_letters").text(p.letters);
+		$("#player_" + (p.number) + "_letters").text("Letters: " + p.letters);
 	});
 }
 
