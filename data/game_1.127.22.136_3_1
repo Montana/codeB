@@ -1,0 +1,1547 @@
+TOURNAMENT_START
+HIDDEN_LETTERS DaBrooklynSpecial "ta"
+HIDDEN_LETTERS ZenBot1 "ud"
+HIDDEN_LETTERS Scrabblers "yl"
+HIDDEN_LETTERS ZenBot2 "rl"
+HIDDEN_LETTERS ZenBot3 "eb"
+GAME_START 0
+ROUND_START s 294467
+BID DaBrooklynSpecial 9
+BID ZenBot3 11
+BID ZenBot2 4
+BID ZenBot1 6
+ROUND_END ZenBot3 11 9
+ROUND_START v 269283
+BID ZenBot2 10
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END ZenBot2 10 1
+ROUND_START s 865397
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 9
+BID ZenBot2 8
+ROUND_END DaBrooklynSpecial 9 8
+ROUND_START u 946696
+BID ZenBot2 6
+BID ZenBot1 0
+BID DaBrooklynSpecial 7
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 7 6
+ROUND_START l 527157
+BID ZenBot3 0
+BID DaBrooklynSpecial 7
+BID ZenBot2 4
+BID ZenBot1 6
+ROUND_END DaBrooklynSpecial 7 6
+ROUND_START n 599865
+BID ZenBot2 6
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 6 6
+ROUND_START v 248285
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 8
+ROUND_END DaBrooklynSpecial 8 0
+ROUND_START u 871535
+BID ZenBot2 7
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 7 0
+ROUND_START g 199207
+BID ZenBot3 0
+BID ZenBot1 7
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 7 0
+ROUND_START n 313646
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START e 221448
+BID ZenBot2 3
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 3
+ROUND_START i 409724
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 6
+ROUND_START r 463661
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot1 6 0
+ROUND_START e 685775
+BID ZenBot3 0
+BID ZenBot2 10
+BID ZenBot1 0
+ROUND_END ZenBot2 10 0
+ROUND_START m 476347
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START s 819850
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 51
+ROUND_END ZenBot1 51 0
+ROUND_START w 452604
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START a 631991
+BID ZenBot2 2
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END ZenBot2 2 0
+ROUND_START e 492165
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START r 506767
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START k 13453
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START t 644218
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START y 868863
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 24
+ROUND_END ZenBot3 24 0
+ROUND_START g 620327
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START x 700663
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+GAME_END 0
+WORD_SUBMISSION DaBrooklynSpecial vistula" 60
+WORD_SUBMISSION ZenBot1 gerunds" 59
+WORD_SUBMISSION Scrabblers xylem" 17
+WORD_SUBMISSION ZenBot2 unravel" 60
+WORD_SUBMISSION ZenBot3 gybes" 11
+HIDDEN_LETTERS DaBrooklynSpecial "ce"
+HIDDEN_LETTERS ZenBot1 "lt"
+HIDDEN_LETTERS Scrabblers "ob"
+HIDDEN_LETTERS ZenBot2 "or"
+HIDDEN_LETTERS ZenBot3 "ev"
+GAME_START 1
+ROUND_START d 579410
+BID DaBrooklynSpecial 2
+BID ZenBot2 4
+BID ZenBot1 7
+BID ZenBot3 0
+ROUND_END ZenBot1 7 4
+ROUND_START v 1008963
+BID ZenBot3 0
+BID DaBrooklynSpecial 1
+BID ZenBot2 11
+BID ZenBot1 0
+ROUND_END ZenBot2 11 1
+ROUND_START c 929511
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot2 3
+ROUND_END ZenBot2 3 1
+ROUND_START p 488585
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START l 202256
+BID ZenBot2 10
+BID ZenBot1 0
+BID DaBrooklynSpecial 8
+BID ZenBot3 0
+ROUND_END ZenBot2 10 8
+ROUND_START e 803502
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 4
+BID ZenBot2 4
+ROUND_END ZenBot1 6 4
+ROUND_START j 770788
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START e 1002028
+BID ZenBot2 7
+BID DaBrooklynSpecial 1
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot2 7 6
+ROUND_START q 110147
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START o 608221
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START a 208774
+BID ZenBot2 0
+BID ZenBot3 11
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 6
+ROUND_START n 185853
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START o 930987
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 349668
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 1003662
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START a 220203
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 51
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 51 0
+ROUND_START y 1043680
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START h 960212
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START i 950632
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot2 0 0
+ROUND_START a 981269
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START a 673349
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START w 68719
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START a 584375
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START k 989860
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START x 552495
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+GAME_END 1
+WORD_SUBMISSION DaBrooklynSpecial hype" 12
+WORD_SUBMISSION ZenBot1 leotard" 58
+WORD_SUBMISSION Scrabblers knox" 15
+WORD_SUBMISSION ZenBot2 clover" 11
+WORD_SUBMISSION ZenBot3 avow" 10
+HIDDEN_LETTERS DaBrooklynSpecial "eb"
+HIDDEN_LETTERS ZenBot1 "eg"
+HIDDEN_LETTERS Scrabblers "mo"
+HIDDEN_LETTERS ZenBot2 "dl"
+HIDDEN_LETTERS ZenBot3 "ir"
+GAME_START 2
+ROUND_START e 350254
+BID DaBrooklynSpecial 4
+BID ZenBot1 6
+BID ZenBot2 1
+BID ZenBot3 11
+ROUND_END ZenBot3 11 6
+ROUND_START e 609569
+BID ZenBot2 7
+BID DaBrooklynSpecial 4
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot2 7 6
+ROUND_START o 789226
+BID DaBrooklynSpecial 4
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 3
+ROUND_END ZenBot1 6 4
+ROUND_START u 378713
+BID ZenBot2 7
+BID ZenBot3 0
+BID DaBrooklynSpecial 3
+BID ZenBot1 6
+ROUND_END ZenBot2 7 6
+ROUND_START i 965749
+BID DaBrooklynSpecial 6
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 2
+ROUND_END ZenBot1 6 6
+ROUND_START s 137565
+BID ZenBot2 9
+BID ZenBot3 0
+BID DaBrooklynSpecial 4
+BID ZenBot1 6
+ROUND_END ZenBot2 9 6
+ROUND_START a 809984
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 8
+BID ZenBot2 8
+ROUND_END ZenBot2 8 8
+ROUND_START w 464521
+BID DaBrooklynSpecial 1
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START s 456471
+BID ZenBot2 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 10
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 10 6
+ROUND_START a 828798
+BID ZenBot2 0
+BID DaBrooklynSpecial 1
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot1 6 1
+ROUND_START s 722209
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END ZenBot1 6 1
+ROUND_START n 799876
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 51
+ROUND_END ZenBot1 51 1
+ROUND_START o 922896
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 8
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 8 0
+ROUND_START a 282501
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START u 196872
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START y 398647
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 0 0
+ROUND_START a 434049
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START o 220454
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START t 212366
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 62501
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 21
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 21 0
+ROUND_START f 721391
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START n 747742
+BID ZenBot3 51
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 51 0
+ROUND_START x 109699
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START n 423444
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START s 850368
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+GAME_END 2
+WORD_SUBMISSION DaBrooklynSpecial foxes" 15
+WORD_SUBMISSION ZenBot1 agonies" 58
+WORD_SUBMISSION Scrabblers mason" 7
+WORD_SUBMISSION ZenBot2 delays" 10
+WORD_SUBMISSION ZenBot3 retrain" 57
+HIDDEN_LETTERS DaBrooklynSpecial "ne"
+HIDDEN_LETTERS ZenBot1 "ee"
+HIDDEN_LETTERS Scrabblers "ts"
+HIDDEN_LETTERS ZenBot2 "bs"
+HIDDEN_LETTERS ZenBot3 "wo"
+GAME_START 3
+ROUND_START i 470073
+BID DaBrooklynSpecial 8
+BID ZenBot2 10
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot2 10 8
+ROUND_START e 542160
+BID DaBrooklynSpecial 5
+BID ZenBot3 11
+BID ZenBot1 6
+BID ZenBot2 3
+ROUND_END ZenBot3 11 6
+ROUND_START o 1019898
+BID ZenBot2 1
+BID DaBrooklynSpecial 6
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot1 6 6
+ROUND_START u 253686
+BID ZenBot3 0
+BID ZenBot2 3
+BID DaBrooklynSpecial 2
+BID ZenBot1 0
+ROUND_END ZenBot2 3 2
+ROUND_START w 489314
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START v 707282
+BID ZenBot3 0
+BID DaBrooklynSpecial 1
+BID ZenBot2 7
+BID ZenBot1 9
+ROUND_END ZenBot1 9 7
+ROUND_START o 131883
+BID ZenBot3 0
+BID ZenBot2 8
+BID DaBrooklynSpecial 7
+BID ZenBot1 0
+ROUND_END ZenBot2 8 7
+ROUND_START o 169520
+BID ZenBot3 0
+BID DaBrooklynSpecial 7
+BID ZenBot1 0
+BID ZenBot2 6
+ROUND_END DaBrooklynSpecial 7 6
+ROUND_START d 75247
+BID ZenBot1 7
+BID DaBrooklynSpecial 1
+BID ZenBot3 12
+BID ZenBot2 11
+ROUND_END ZenBot3 12 11
+ROUND_START o 531190
+BID DaBrooklynSpecial 5
+BID ZenBot2 3
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 5 3
+ROUND_START a 605892
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START v 130016
+BID ZenBot2 6
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 6 0
+ROUND_START s 385265
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 0 0
+ROUND_START a 911767
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 0 0
+ROUND_START d 947802
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START u 39121
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START i 359996
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END ZenBot1 0 0
+ROUND_START e 632091
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START t 507365
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START p 815069
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START g 642296
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START h 352079
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START e 654063
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END ZenBot3 0 0
+ROUND_START m 1029354
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START d 171883
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+GAME_END 3
+WORD_SUBMISSION DaBrooklynSpecial wooden" 10
+WORD_SUBMISSION ZenBot1 eave" 7
+WORD_SUBMISSION Scrabblers phd" 9
+WORD_SUBMISSION ZenBot2 boss" 6
+WORD_SUBMISSION ZenBot3 towed" 9
+HIDDEN_LETTERS DaBrooklynSpecial "lc"
+HIDDEN_LETTERS ZenBot1 "bs"
+HIDDEN_LETTERS Scrabblers "il"
+HIDDEN_LETTERS ZenBot2 "sy"
+HIDDEN_LETTERS ZenBot3 "ne"
+GAME_START 4
+ROUND_START n 231173
+BID DaBrooklynSpecial 6
+BID ZenBot1 6
+BID ZenBot2 9
+BID ZenBot3 0
+ROUND_END ZenBot2 9 6
+ROUND_START n 883456
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 6
+BID ZenBot2 10
+ROUND_END ZenBot2 10 6
+ROUND_START e 867631
+BID ZenBot1 6
+BID DaBrooklynSpecial 10
+BID ZenBot3 0
+BID ZenBot2 8
+ROUND_END DaBrooklynSpecial 10 8
+ROUND_START o 778762
+BID ZenBot2 4
+BID ZenBot1 6
+BID DaBrooklynSpecial 8
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 8 6
+ROUND_START r 17139
+BID DaBrooklynSpecial 12
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 12 6
+ROUND_START u 589642
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 5
+ROUND_END ZenBot1 6 5
+ROUND_START e 882854
+BID ZenBot2 7
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 5
+ROUND_END ZenBot2 7 6
+ROUND_START i 757697
+BID ZenBot3 11
+BID ZenBot1 6
+BID ZenBot2 0
+BID DaBrooklynSpecial 5
+ROUND_END ZenBot3 11 6
+ROUND_START m 212428
+BID ZenBot2 0
+BID ZenBot1 8
+BID DaBrooklynSpecial 12
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 12 8
+ROUND_START e 724376
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START m 50385
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 8
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 8 0
+ROUND_START z 611205
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START a 45982
+BID ZenBot2 2
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 2
+ROUND_START o 874107
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END ZenBot3 0 0
+ROUND_START t 1042612
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot1 6 0
+ROUND_START o 370461
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END ZenBot1 0 0
+ROUND_START w 823409
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 131252
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START a 494098
+BID ZenBot3 0
+BID ZenBot2 3
+BID ZenBot1 0
+ROUND_END ZenBot2 3 0
+ROUND_START e 671536
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot2 0 0
+ROUND_START t 421923
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START d 960996
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 1010666
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START i 103573
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START n 610180
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+GAME_END 4
+WORD_SUBMISSION DaBrooklynSpecial carmelo" 61
+WORD_SUBMISSION ZenBot1 besom" 9
+WORD_SUBMISSION Scrabblers eliot" 5
+WORD_SUBMISSION ZenBot2 ayes" 7
+WORD_SUBMISSION ZenBot3 dozen" 15
+HIDDEN_LETTERS DaBrooklynSpecial "ng"
+HIDDEN_LETTERS ZenBot1 "xh"
+HIDDEN_LETTERS Scrabblers "yn"
+HIDDEN_LETTERS ZenBot2 "gu"
+HIDDEN_LETTERS ZenBot3 "ia"
+GAME_START 5
+ROUND_START e 846970
+BID DaBrooklynSpecial 1
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 10
+ROUND_END ZenBot2 10 6
+ROUND_START a 149046
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 1
+BID ZenBot2 4
+ROUND_END ZenBot1 6 4
+ROUND_START e 482011
+BID DaBrooklynSpecial 1
+BID ZenBot2 2
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END ZenBot1 6 2
+ROUND_START q 900789
+BID ZenBot3 0
+BID ZenBot2 19
+BID DaBrooklynSpecial 1
+BID ZenBot1 0
+ROUND_END ZenBot2 19 1
+ROUND_START r 801498
+BID ZenBot1 6
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot1 6 1
+ROUND_START d 984804
+BID ZenBot2 0
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START e 504858
+BID ZenBot1 0
+BID DaBrooklynSpecial 7
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 7 0
+ROUND_START c 91330
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 5
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 5 0
+ROUND_START i 319442
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 5
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 5 0
+ROUND_START m 19478
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START t 455166
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START d 697475
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 0 0
+ROUND_START o 1045568
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START e 714656
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 0 0
+ROUND_START r 1029142
+BID DaBrooklynSpecial 0
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 209590
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END ZenBot1 0 0
+ROUND_START v 793093
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START i 539585
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START u 602974
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START a 552284
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 0 0
+ROUND_START a 707629
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START t 344357
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START g 756493
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 279639
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START t 398431
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+GAME_END 5
+WORD_SUBMISSION DaBrooklynSpecial maced" 10
+WORD_SUBMISSION ZenBot1 hex" 13
+WORD_SUBMISSION Scrabblers nutty" 8
+WORD_SUBMISSION ZenBot2 qua" 12
+WORD_SUBMISSION ZenBot3 argot" 6
+HIDDEN_LETTERS DaBrooklynSpecial "ds"
+HIDDEN_LETTERS ZenBot1 "eh"
+HIDDEN_LETTERS Scrabblers "er"
+HIDDEN_LETTERS ZenBot2 "si"
+HIDDEN_LETTERS ZenBot3 "oo"
+GAME_START 6
+ROUND_START m 198172
+BID DaBrooklynSpecial 4
+BID ZenBot1 8
+BID ZenBot2 10
+BID ZenBot3 0
+ROUND_END ZenBot2 10 8
+ROUND_START r 773796
+BID ZenBot3 0
+BID DaBrooklynSpecial 7
+BID ZenBot1 6
+BID ZenBot2 9
+ROUND_END ZenBot2 9 7
+ROUND_START z 361288
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START i 161160
+BID ZenBot2 5
+BID DaBrooklynSpecial 14
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END DaBrooklynSpecial 14 6
+ROUND_START e 620316
+BID ZenBot2 6
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END ZenBot1 6 6
+ROUND_START u 900410
+BID ZenBot2 1
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 1 1
+ROUND_START u 150698
+BID ZenBot2 4
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 4 0
+ROUND_START q 318410
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+BID ZenBot2 16
+ROUND_END ZenBot2 16 0
+ROUND_START u 82046
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 0 0
+ROUND_START a 844296
+BID ZenBot2 2
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 2 0
+ROUND_START n 235056
+BID ZenBot3 11
+BID ZenBot2 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 6
+ROUND_START n 549288
+BID ZenBot2 0
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START a 891254
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 0 0
+ROUND_START n 193077
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+BID ZenBot1 0
+ROUND_END ZenBot1 0 0
+ROUND_START o 816737
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START r 244340
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START e 182358
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START i 341990
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START n 267127
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START f 135672
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START a 667656
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START b 449162
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 852859
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START s 471402
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START a 571081
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+GAME_END 6
+WORD_SUBMISSION DaBrooklynSpecial uzi" 12
+WORD_SUBMISSION ZenBot1 henna" 8
+WORD_SUBMISSION Scrabblers snorer" 6
+WORD_SUBMISSION ZenBot2 marquis" 68
+WORD_SUBMISSION ZenBot3 boone" 7
+HIDDEN_LETTERS DaBrooklynSpecial "em"
+HIDDEN_LETTERS ZenBot1 "mw"
+HIDDEN_LETTERS Scrabblers "ri"
+HIDDEN_LETTERS ZenBot2 "ih"
+HIDDEN_LETTERS ZenBot3 "fs"
+GAME_START 7
+ROUND_START o 119910
+BID DaBrooklynSpecial 5
+BID ZenBot2 1
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot1 6 5
+ROUND_START e 585121
+BID ZenBot3 11
+BID DaBrooklynSpecial 3
+BID ZenBot2 7
+BID ZenBot1 6
+ROUND_END ZenBot3 11 7
+ROUND_START u 702867
+BID ZenBot1 0
+BID DaBrooklynSpecial 3
+BID ZenBot2 4
+BID ZenBot3 0
+ROUND_END ZenBot2 4 3
+ROUND_START e 22059
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 3
+BID ZenBot2 3
+ROUND_END ZenBot1 6 3
+ROUND_START a 812387
+BID ZenBot2 1
+BID DaBrooklynSpecial 11
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END DaBrooklynSpecial 11 6
+ROUND_START a 736486
+BID ZenBot2 7
+BID ZenBot1 6
+BID DaBrooklynSpecial 3
+BID ZenBot3 0
+ROUND_END ZenBot2 7 6
+ROUND_START r 672317
+BID DaBrooklynSpecial 12
+BID ZenBot1 6
+BID ZenBot3 11
+BID ZenBot2 2
+ROUND_END DaBrooklynSpecial 12 11
+ROUND_START n 631887
+BID DaBrooklynSpecial 11
+BID ZenBot3 0
+BID ZenBot2 6
+BID ZenBot1 6
+ROUND_END DaBrooklynSpecial 11 6
+ROUND_START e 316186
+BID ZenBot3 0
+BID ZenBot1 6
+BID ZenBot2 0
+BID DaBrooklynSpecial 5
+ROUND_END ZenBot1 6 5
+ROUND_START t 111596
+BID ZenBot3 0
+BID ZenBot2 6
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 6 0
+ROUND_START r 405220
+BID ZenBot3 11
+BID ZenBot1 6
+BID ZenBot2 5
+BID DaBrooklynSpecial 1
+ROUND_END ZenBot3 11 6
+ROUND_START e 403040
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 5
+ROUND_END DaBrooklynSpecial 5 0
+ROUND_START v 83490
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 0 0
+ROUND_START d 897562
+BID ZenBot3 0
+BID DaBrooklynSpecial 20
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 20 0
+ROUND_START r 67741
+BID ZenBot3 0
+BID ZenBot2 8
+BID ZenBot1 0
+ROUND_END ZenBot2 8 0
+ROUND_START x 15446
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START q 365723
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START l 850421
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START w 863561
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot2 0 0
+ROUND_START r 95723
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot1 0 0
+ROUND_START o 313856
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 313536
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START r 566268
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START t 794849
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START n 539693
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+GAME_END 7
+WORD_SUBMISSION DaBrooklynSpecial meander" 60
+WORD_SUBMISSION ZenBot1 remove" 11
+WORD_SUBMISSION Scrabblers q" 10
+WORD_SUBMISSION ZenBot2 wraith" 12
+WORD_SUBMISSION ZenBot3 fresno" 9
+HIDDEN_LETTERS DaBrooklynSpecial "zb"
+HIDDEN_LETTERS ZenBot1 "tb"
+HIDDEN_LETTERS Scrabblers "ee"
+HIDDEN_LETTERS ZenBot2 "ae"
+HIDDEN_LETTERS ZenBot3 "ux"
+GAME_START 8
+ROUND_START a 397142
+BID DaBrooklynSpecial 6
+BID ZenBot2 7
+BID ZenBot1 6
+BID ZenBot3 0
+ROUND_END ZenBot2 7 6
+ROUND_START a 714416
+BID ZenBot3 0
+BID DaBrooklynSpecial 6
+BID ZenBot1 6
+BID ZenBot2 6
+ROUND_END ZenBot1 6 6
+ROUND_START u 581751
+BID DaBrooklynSpecial 1
+BID ZenBot2 7
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END ZenBot2 7 6
+ROUND_START a 654769
+BID DaBrooklynSpecial 6
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 6 6
+ROUND_START v 367690
+BID ZenBot1 0
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot2 13
+ROUND_END ZenBot2 13 1
+ROUND_START y 815406
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START r 859690
+BID DaBrooklynSpecial 1
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 4
+ROUND_END ZenBot1 6 4
+ROUND_START t 294235
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 6
+ROUND_END ZenBot1 6 1
+ROUND_START s 460613
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 6
+ROUND_END ZenBot1 6 1
+ROUND_START a 255290
+BID DaBrooklynSpecial 1
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START i 205745
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 860932
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START o 863644
+BID ZenBot3 11
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START t 562182
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END Scrabblers 0 0
+ROUND_START g 44605
+BID ZenBot1 0
+BID ZenBot2 9
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 9 0
+ROUND_START a 244125
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 462902
+BID ZenBot1 0
+BID ZenBot2 0
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START o 933080
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START u 838384
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END ZenBot2 0 0
+ROUND_START p 292478
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot1 0 0
+ROUND_START s 254627
+BID ZenBot3 21
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 21 0
+ROUND_START e 119035
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 642207
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+ROUND_START e 945648
+BID ZenBot3 0
+BID ZenBot1 0
+BID ZenBot2 0
+ROUND_END Scrabblers 0 0
+ROUND_START p 859004
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+GAME_END 8
+WORD_SUBMISSION DaBrooklynSpecial zibo" 15
+WORD_SUBMISSION ZenBot1 pabst" 9
+WORD_SUBMISSION Scrabblers peter" 7
+WORD_SUBMISSION ZenBot2 agave" 9
+WORD_SUBMISSION ZenBot3 sioux" 12
+HIDDEN_LETTERS DaBrooklynSpecial "mr"
+HIDDEN_LETTERS ZenBot1 "xd"
+HIDDEN_LETTERS Scrabblers "tn"
+HIDDEN_LETTERS ZenBot2 "ln"
+HIDDEN_LETTERS ZenBot3 "ta"
+GAME_START 9
+ROUND_START g 199916
+BID DaBrooklynSpecial 1
+BID ZenBot1 0
+BID ZenBot2 6
+BID ZenBot3 0
+ROUND_END ZenBot2 6 1
+ROUND_START e 797389
+BID ZenBot1 6
+BID ZenBot3 11
+BID DaBrooklynSpecial 7
+BID ZenBot2 6
+ROUND_END ZenBot3 11 7
+ROUND_START a 279806
+BID ZenBot1 6
+BID DaBrooklynSpecial 11
+BID ZenBot2 3
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 11 6
+ROUND_START r 611836
+BID ZenBot1 6
+BID DaBrooklynSpecial 1
+BID ZenBot2 6
+BID ZenBot3 11
+ROUND_END ZenBot3 11 6
+ROUND_START e 702148
+BID ZenBot1 6
+BID DaBrooklynSpecial 12
+BID ZenBot2 5
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 12 6
+ROUND_START o 727528
+BID ZenBot2 8
+BID ZenBot1 6
+BID ZenBot3 0
+BID DaBrooklynSpecial 5
+ROUND_END ZenBot2 8 6
+ROUND_START g 61566
+BID DaBrooklynSpecial 6
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 6
+ROUND_END ZenBot2 6 6
+ROUND_START e 972004
+BID DaBrooklynSpecial 1
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot1 6 1
+ROUND_START h 86505
+BID ZenBot2 0
+BID DaBrooklynSpecial 5
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END DaBrooklynSpecial 5 0
+ROUND_START n 765126
+BID ZenBot3 0
+BID ZenBot2 5
+BID ZenBot1 6
+BID DaBrooklynSpecial 4
+ROUND_END ZenBot1 6 5
+ROUND_START s 938335
+BID ZenBot2 4
+BID ZenBot3 0
+BID ZenBot1 6
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 6
+ROUND_START i 30352
+BID ZenBot3 0
+BID ZenBot2 1
+BID ZenBot1 6
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 1
+ROUND_START i 923640
+BID ZenBot3 0
+BID ZenBot2 8
+BID ZenBot1 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot2 8 0
+ROUND_START u 741220
+BID ZenBot1 6
+BID ZenBot3 0
+BID ZenBot2 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot1 6 0
+ROUND_START n 1015352
+BID ZenBot2 9
+BID ZenBot3 0
+BID ZenBot1 0
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 9
+ROUND_START v 256603
+BID ZenBot1 0
+BID ZenBot2 10
+BID ZenBot3 0
+ROUND_END ZenBot2 10 0
+ROUND_START u 657140
+BID ZenBot1 0
+BID ZenBot3 0
+BID ZenBot2 0
+ROUND_END ZenBot1 0 0
+ROUND_START e 158433
+BID ZenBot2 0
+BID ZenBot3 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START s 297490
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START d 259894
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START e 447666
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END Scrabblers 0 0
+ROUND_START i 787128
+BID ZenBot3 0
+BID ZenBot2 0
+BID ZenBot1 0
+ROUND_END ZenBot3 0 0
+ROUND_START p 104568
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 23
+ROUND_END ZenBot3 23 0
+ROUND_START w 369546
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 54
+ROUND_END ZenBot3 54 0
+ROUND_START b 890756
+BID ZenBot2 0
+BID ZenBot1 0
+BID ZenBot3 0
+ROUND_END Scrabblers 0 0
+GAME_END 9
+WORD_SUBMISSION DaBrooklynSpecial sherman" 62
+WORD_SUBMISSION ZenBot1 index" 13
+WORD_SUBMISSION Scrabblers bested" 9
+WORD_SUBMISSION ZenBot2 gloving" 62
+WORD_SUBMISSION ZenBot3 wiretap" 62
+TOURNAMENT_END
+USER_FINAL_SCORE DaBrooklynSpecial 283
+USER_FINAL_SCORE ZenBot1 258
+USER_FINAL_SCORE Scrabblers 193
+USER_FINAL_SCORE ZenBot2 216
+USER_FINAL_SCORE ZenBot3 222

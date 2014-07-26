@@ -1,0 +1,999 @@
+TOURNAMENT_START
+HIDDEN_LETTERS DaBrooklynSpecial "ah"
+HIDDEN_LETTERS TheKnightsoftheRotunda "eo"
+HIDDEN_LETTERS null "ig"
+HIDDEN_LETTERS ZenBot3 "dz"
+HIDDEN_LETTERS BrotosaurusRex "io"
+GAME_START 0
+ROUND_START t 809891
+BID DaBrooklynSpecial 7
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 7 0
+ROUND_START s 73100
+BID ZenBot3 0
+BID DaBrooklynSpecial 10
+ROUND_END DaBrooklynSpecial 10 0
+ROUND_START a 364833
+BID ZenBot3 0
+BID DaBrooklynSpecial 16
+ROUND_END DaBrooklynSpecial 16 0
+ROUND_START u 333852
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START h 508477
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START l 343199
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START u 305628
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START n 981026
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START e 30296
+BID ZenBot3 11
+ROUND_END ZenBot3 11 0
+ROUND_START i 920904
+BID ZenBot3 11
+ROUND_END ZenBot3 11 0
+ROUND_START w 123433
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 116812
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START p 756878
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START b 774683
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START a 799072
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START o 856987
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START t 795413
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START p 400966
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START m 765498
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START e 922423
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START r 512343
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START e 853441
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START i 63625
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START y 875198
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START t 667597
+BID ZenBot3 0
+ROUND_END null 0 0
+GAME_END 0
+WORD_SUBMISSION DaBrooklynSpecial shaula" 9
+WORD_SUBMISSION TheKnightsoftheRotunda oriya" 8
+WORD_SUBMISSION null teeing" 7
+WORD_SUBMISSION ZenBot3 wiz" 15
+WORD_SUBMISSION BrotosaurusRex hippo" 12
+HIDDEN_LETTERS DaBrooklynSpecial "ro"
+HIDDEN_LETTERS TheKnightsoftheRotunda "an"
+HIDDEN_LETTERS null "ee"
+HIDDEN_LETTERS ZenBot3 "da"
+HIDDEN_LETTERS BrotosaurusRex "tr"
+GAME_START 1
+ROUND_START m 698797
+BID DaBrooklynSpecial 4
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 4 0
+ROUND_START n 426804
+BID DaBrooklynSpecial 9
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 9 0
+ROUND_START m 272580
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START q 919575
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 307464
+BID DaBrooklynSpecial 20
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 20 0
+ROUND_START c 806507
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START f 715685
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START w 441685
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 81292
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START d 696868
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START n 428679
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START b 556226
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START x 453855
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 809170
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START l 918186
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START b 116360
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START g 226808
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START v 346721
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START y 387304
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START i 843487
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 553676
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 878441
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 221063
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START r 243555
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START z 124466
+BID ZenBot3 0
+ROUND_END null 0 0
+GAME_END 1
+WORD_SUBMISSION DaBrooklynSpecial mormon" 10
+WORD_SUBMISSION TheKnightsoftheRotunda bandy" 11
+WORD_SUBMISSION null frieze" 18
+WORD_SUBMISSION ZenBot3 coax" 13
+WORD_SUBMISSION BrotosaurusRex bigot" 8
+HIDDEN_LETTERS DaBrooklynSpecial "el"
+HIDDEN_LETTERS TheKnightsoftheRotunda "ar"
+HIDDEN_LETTERS null "ed"
+HIDDEN_LETTERS ZenBot3 "eb"
+HIDDEN_LETTERS BrotosaurusRex "ga"
+GAME_START 2
+ROUND_START l 857263
+BID DaBrooklynSpecial 4
+BID ZenBot3 11
+ROUND_END ZenBot3 11 4
+ROUND_START t 790588
+BID DaBrooklynSpecial 4
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 4 0
+ROUND_START s 319660
+BID ZenBot3 0
+BID DaBrooklynSpecial 7
+ROUND_END DaBrooklynSpecial 7 0
+ROUND_START p 921103
+BID ZenBot3 0
+BID DaBrooklynSpecial 5
+ROUND_END DaBrooklynSpecial 5 0
+ROUND_START o 743127
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START e 834166
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START j 791594
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START o 135616
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START s 155232
+BID DaBrooklynSpecial 20
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 20 0
+ROUND_START o 255465
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START a 321082
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START z 728256
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START e 197598
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START x 149842
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 143491
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START b 1013139
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START r 246896
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START y 423302
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 574604
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START m 467182
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START h 773757
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START w 873654
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START c 1046168
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START o 500002
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 962217
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+GAME_END 2
+WORD_SUBMISSION DaBrooklynSpecial topless" 59
+WORD_SUBMISSION TheKnightsoftheRotunda maze" 15
+WORD_SUBMISSION null jed" 11
+WORD_SUBMISSION ZenBot3 ibex" 13
+WORD_SUBMISSION BrotosaurusRex bag" 6
+HIDDEN_LETTERS DaBrooklynSpecial "om"
+HIDDEN_LETTERS TheKnightsoftheRotunda "la"
+HIDDEN_LETTERS null "at"
+HIDDEN_LETTERS ZenBot3 "zi"
+HIDDEN_LETTERS BrotosaurusRex "dk"
+GAME_START 3
+ROUND_START i 331258
+BID DaBrooklynSpecial 6
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 6 0
+ROUND_START o 954557
+BID ZenBot3 0
+BID DaBrooklynSpecial 3
+ROUND_END DaBrooklynSpecial 3 0
+ROUND_START q 156097
+BID ZenBot3 0
+BID DaBrooklynSpecial 1
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START r 77072
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START s 253212
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START o 966203
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START n 614285
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START a 256703
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START b 552605
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 491289
+BID ZenBot3 21
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 21 0
+ROUND_START r 105626
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 282478
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 872448
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START r 930813
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START l 979132
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START a 546677
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START d 853077
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START e 447043
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START j 575024
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START t 905738
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START i 543998
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START s 872536
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START v 742017
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START n 630712
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START t 276155
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+GAME_END 3
+WORD_SUBMISSION DaBrooklynSpecial qom" 14
+WORD_SUBMISSION TheKnightsoftheRotunda val" 6
+WORD_SUBMISSION null jest" 11
+WORD_SUBMISSION ZenBot3 bozo" 15
+WORD_SUBMISSION BrotosaurusRex dirks" 10
+HIDDEN_LETTERS DaBrooklynSpecial "ot"
+HIDDEN_LETTERS TheKnightsoftheRotunda "oa"
+HIDDEN_LETTERS null "eh"
+HIDDEN_LETTERS ZenBot3 "ai"
+HIDDEN_LETTERS BrotosaurusRex "nf"
+GAME_START 4
+ROUND_START e 449105
+BID DaBrooklynSpecial 11
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 11 0
+ROUND_START n 842677
+BID ZenBot3 11
+BID DaBrooklynSpecial 9
+ROUND_END ZenBot3 11 9
+ROUND_START i 491798
+BID DaBrooklynSpecial 5
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 5 0
+ROUND_START t 621297
+BID DaBrooklynSpecial 10
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 10 0
+ROUND_START a 876230
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START e 170419
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START n 984515
+BID ZenBot3 0
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 0
+ROUND_START s 181558
+BID ZenBot3 0
+BID DaBrooklynSpecial 20
+ROUND_END DaBrooklynSpecial 20 0
+ROUND_START k 787436
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START g 312305
+BID ZenBot3 12
+ROUND_END ZenBot3 12 0
+ROUND_START l 404380
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START w 748821
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START f 464105
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START y 351061
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START l 933435
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 275486
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START i 915315
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 82022
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START z 755367
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START p 497704
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 637348
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START r 468400
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START i 809812
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START r 739804
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START u 968729
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+GAME_END 4
+WORD_SUBMISSION DaBrooklynSpecial toniest" 57
+WORD_SUBMISSION TheKnightsoftheRotunda roar" 4
+WORD_SUBMISSION null whey" 13
+WORD_SUBMISSION ZenBot3 lazing" 16
+WORD_SUBMISSION BrotosaurusRex knopf" 14
+HIDDEN_LETTERS DaBrooklynSpecial "ze"
+HIDDEN_LETTERS TheKnightsoftheRotunda "to"
+HIDDEN_LETTERS null "sn"
+HIDDEN_LETTERS ZenBot3 "ii"
+HIDDEN_LETTERS BrotosaurusRex "up"
+GAME_START 5
+ROUND_START w 257645
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START t 532569
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START y 22404
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START s 810050
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 526708
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START e 182252
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START f 498697
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START t 537348
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START a 874585
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START w 353045
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 262727
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START o 596878
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START t 602844
+BID ZenBot3 21
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 21 0
+ROUND_START e 21166
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START a 535694
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START a 454257
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START o 661138
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START e 1026200
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START l 69742
+BID ZenBot3 51
+ROUND_END ZenBot3 51 0
+ROUND_START n 687355
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START b 299723
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START q 936243
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START e 202435
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START i 788686
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 458940
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+GAME_END 5
+WORD_SUBMISSION DaBrooklynSpecial zeta" 13
+WORD_SUBMISSION TheKnightsoftheRotunda etta" 4
+WORD_SUBMISSION null fannies" 60
+WORD_SUBMISSION ZenBot3 wiliest" 60
+WORD_SUBMISSION BrotosaurusRex quip" 15
+HIDDEN_LETTERS DaBrooklynSpecial "eo"
+HIDDEN_LETTERS TheKnightsoftheRotunda "uo"
+HIDDEN_LETTERS null "li"
+HIDDEN_LETTERS ZenBot3 "eb"
+HIDDEN_LETTERS BrotosaurusRex "ee"
+GAME_START 6
+ROUND_START o 548123
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START y 217079
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START h 185277
+BID DaBrooklynSpecial 19
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 19 0
+ROUND_START r 1021930
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START i 107293
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START f 674962
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START p 808927
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START m 290513
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START a 537204
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START r 141822
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START p 374766
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START k 63436
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START n 15677
+BID DaBrooklynSpecial 0
+BID ZenBot3 21
+ROUND_END ZenBot3 21 0
+ROUND_START u 353173
+BID DaBrooklynSpecial 0
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START m 391133
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START o 35394
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START i 615221
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START t 522211
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START i 757166
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START a 100364
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START t 140462
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START a 553525
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START i 252562
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 44829
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START t 132556
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+GAME_END 6
+WORD_SUBMISSION DaBrooklynSpecial homey" 13
+WORD_SUBMISSION TheKnightsoftheRotunda poi" 5
+WORD_SUBMISSION null fail" 7
+WORD_SUBMISSION ZenBot3 banker" 12
+WORD_SUBMISSION BrotosaurusRex tempe" 9
+HIDDEN_LETTERS DaBrooklynSpecial "yg"
+HIDDEN_LETTERS TheKnightsoftheRotunda "eu"
+HIDDEN_LETTERS null "tf"
+HIDDEN_LETTERS ZenBot3 "mo"
+HIDDEN_LETTERS BrotosaurusRex "an"
+GAME_START 7
+ROUND_START s 682082
+BID DaBrooklynSpecial 6
+BID ZenBot3 11
+ROUND_END ZenBot3 11 6
+ROUND_START w 465981
+BID DaBrooklynSpecial 2
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 2 0
+ROUND_START o 10093
+BID ZenBot3 0
+BID DaBrooklynSpecial 14
+ROUND_END DaBrooklynSpecial 14 0
+ROUND_START u 455161
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START n 1047758
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START x 484992
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 122147
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START a 421795
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START r 783546
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START k 341283
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START u 46843
+BID ZenBot3 21
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 21 0
+ROUND_START i 472115
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START l 651976
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START b 9724
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START a 538864
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START v 763971
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START c 943561
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START s 944970
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START t 926504
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START d 650268
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START o 244672
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 624206
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START n 367896
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START g 126061
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START h 944431
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+GAME_END 7
+WORD_SUBMISSION DaBrooklynSpecial yalow" 11
+WORD_SUBMISSION TheKnightsoftheRotunda gienah" 10
+WORD_SUBMISSION null fist" 7
+WORD_SUBMISSION ZenBot3 minors" 8
+WORD_SUBMISSION BrotosaurusRex knox" 15
+HIDDEN_LETTERS DaBrooklynSpecial "el"
+HIDDEN_LETTERS TheKnightsoftheRotunda "nr"
+HIDDEN_LETTERS null "ge"
+HIDDEN_LETTERS ZenBot3 "dp"
+HIDDEN_LETTERS BrotosaurusRex "eh"
+GAME_START 8
+ROUND_START l 186914
+BID DaBrooklynSpecial 4
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 4 0
+ROUND_START c 490737
+BID DaBrooklynSpecial 6
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 6 0
+ROUND_START w 399170
+BID ZenBot3 0
+BID DaBrooklynSpecial 2
+ROUND_END DaBrooklynSpecial 2 0
+ROUND_START j 349344
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START o 435924
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START w 998215
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START t 999745
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 13931
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START l 523454
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START v 8955
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START o 543518
+BID ZenBot3 11
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 11 0
+ROUND_START o 97474
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START o 276511
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END null 0 0
+ROUND_START o 675169
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START f 137050
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END ZenBot3 0 0
+ROUND_START n 345083
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START e 38133
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START e 719536
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START r 286774
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START r 193299
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START i 551700
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START d 513699
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START e 261616
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START n 199807
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START r 434819
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+GAME_END 8
+WORD_SUBMISSION DaBrooklynSpecial clew" 9
+WORD_SUBMISSION TheKnightsoftheRotunda jed" 11
+WORD_SUBMISSION null igloo" 6
+WORD_SUBMISSION ZenBot3 proof" 10
+WORD_SUBMISSION BrotosaurusRex either" 9
+HIDDEN_LETTERS DaBrooklynSpecial "ae"
+HIDDEN_LETTERS TheKnightsoftheRotunda "pn"
+HIDDEN_LETTERS null "ei"
+HIDDEN_LETTERS ZenBot3 "hs"
+HIDDEN_LETTERS BrotosaurusRex "ot"
+GAME_START 9
+ROUND_START f 571751
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START e 732475
+BID DaBrooklynSpecial 2
+BID ZenBot3 11
+ROUND_END ZenBot3 11 2
+ROUND_START o 967470
+BID DaBrooklynSpecial 3
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 3 0
+ROUND_START x 585743
+BID DaBrooklynSpecial 1
+BID ZenBot3 0
+ROUND_END DaBrooklynSpecial 1 0
+ROUND_START e 488641
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START c 288247
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START o 189400
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START g 1010216
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START n 81275
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START i 807468
+BID ZenBot3 0
+BID DaBrooklynSpecial 0
+ROUND_END DaBrooklynSpecial 0 0
+ROUND_START a 238208
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START a 984572
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START i 606473
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START u 226624
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START u 187460
+BID ZenBot3 0
+ROUND_END TheKnightsoftheRotunda 0 0
+ROUND_START d 101577
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START o 1046387
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START e 791411
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START n 941411
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START t 104830
+BID ZenBot3 0
+ROUND_END ZenBot3 0 0
+ROUND_START a 442751
+BID ZenBot3 0
+ROUND_END BrotosaurusRex 0 0
+ROUND_START v 321942
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START j 1031045
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START p 339599
+BID ZenBot3 0
+ROUND_END null 0 0
+ROUND_START c 746266
+BID ZenBot3 0
+ROUND_END null 0 0
+GAME_END 9
+WORD_SUBMISSION DaBrooklynSpecial fax" 13
+WORD_SUBMISSION TheKnightsoftheRotunda pacino" 10
+WORD_SUBMISSION null jived" 16
+WORD_SUBMISSION ZenBot3 heston" 9
+WORD_SUBMISSION BrotosaurusRex nougat" 7
+TOURNAMENT_END
+USER_FINAL_SCORE DaBrooklynSpecial 308
+USER_FINAL_SCORE TheKnightsoftheRotunda 184
+USER_FINAL_SCORE null 256
+USER_FINAL_SCORE ZenBot3 250
+USER_FINAL_SCORE BrotosaurusRex 205
