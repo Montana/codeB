@@ -1,13 +1,13 @@
-let g_APP = {};
+var g_APP = {};
 
 // Each player should have properties:
 //      letters : array of chars
 //      name    : player name
 //      points  : curr number of points
 //      bid     : bid on curr round
-g_APP.players = []
+//      number  : player number
+g_APP.players = [];
 
-g_APP.numPlayers = -1;
 g_APP.roundNum = -1;
 g_APP.gameNum = -1;
 
@@ -22,6 +22,8 @@ function tournamentStartHandler() {
 function gameStartHandler(gameNum) {
 	g_APP.gameNum++;
 
+	$("#gameStatus").text("Game " + g_APP.gameNum + 1);
+
 	console.log("Game start handler called. Game \
 		" + g_APP.gameNum + " is starting.");
 }
@@ -29,6 +31,8 @@ function gameStartHandler(gameNum) {
 function roundStartHandler(letter) {
 	g_APP.roundNum++;
 	g_APP.currLetter = letter;
+
+	$("#roundStatus").text("Round " + g_APP.roundNum + 1);
 
 	console.log("Round start handler called. Round \
 		" + g_APP.roundNum + " is starting.");
@@ -44,12 +48,23 @@ function bidHandler(player, bidAmt) {
 }
 
 function hiddenLettersHandler(player, letterString) {
-	g_APP.players.forEach(function (p) {
-		if (p.name === player) {
-			p.letters = letterString.split("");
-		}
-	});
+	if (g_APP.players.length < 5) {
+		g_APP.players.push({letters: letterString.split(""), name: player,
+						points: 100, bid: 0, number: g_APP.players.length + 1});
+		$("#player_" + (g_APP.players.length) + ".name").text(player);
+		$("#player_" + (g_APP.players.length) + ".letters").text(letterString);
+	}
+	else {
+		g_APP.players.forEach(function (p) {
+			if (p.name === player) {
+				p.letters = letterString.split("");
+				$("#player_" + (p.number) + ".letters").text(letterString);
+			}
+		});
+	}
 }
+
+
 
 function wordSubmissionHandler(player, word, points) {
 	g_APP.players.forEach(function (p) {
