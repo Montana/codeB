@@ -54,13 +54,13 @@ function hiddenLettersHandler(player, letterString) {
 		g_APP.players.push({letters: letterString.split(""), name: player,
 						points: 100, bid: 0, number: g_APP.players.length + 1});
 		$("#player_" + (g_APP.players.length) + "_name").text(player);
-		$("#player_" + (g_APP.players.length) + "_letters").text(letterString);
+		refreshLetters();
 	}
 	else {
 		g_APP.players.forEach(function (p) {
 			if (p.name === player) {
 				p.letters = letterString.split("");
-				$("#player_" + (p.number) + "_letters").text(letterString);
+				refreshLetters();
 			}
 		});
 	}
@@ -96,14 +96,24 @@ function roundEndHandler(player, winningVal, amtPaid) {
 		if (p.name === player) {
 			p.points -= amtPaid;
 			p.letters.push(g_APP.currLetter);
+			refreshLetters();
 		}
 	});
 }
 
 function gameEndHandler() {
 	console.log("Game end handler called.");
+	g_APP.players.forEach(function (p) {
+		p.letters = [];
+	});
 }
 
 function tournamentEndHandler() {
 	console.log("Tournament end handler called.");
+}
+
+function refreshLetters () {
+	g_APP.players.forEach(function (p) {
+		$("#player_" + (p.number) + "_letters").text(p.letters);
+	});
 }
